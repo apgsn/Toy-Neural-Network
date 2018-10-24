@@ -1,4 +1,4 @@
-# Toy-Neural-Network
+# Vanilla-Neural-Network
 
 A standard [artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network) implemented in C++11. There are two <i>main</i> files through which you can train / experiment with this NN:
 1) main XOR.cpp: a simple implementation, hello-world style. It solves the XOR problem.
